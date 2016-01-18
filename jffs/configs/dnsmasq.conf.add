@@ -1,0 +1,4 @@
+addn-hosts=/jffs/configs/dnsmasq/hosts
+conf-file=/jffs/configs/dnsmasq/bogus
+conf-file=/jffs/configs/dnsmasq/server
+conf-file=/jffs/configs/dnsmasq/address

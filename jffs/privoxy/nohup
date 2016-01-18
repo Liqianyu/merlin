@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup ./privoxy --no-daemon &
